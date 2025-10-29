@@ -1,0 +1,8 @@
+rtGetInf.c.o: \
+ C:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw/rtGetInf.c \
+ C:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw/rtwtypes.h \
+ C:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw/rtGetInf.h \
+ C:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw/rt_nonfinite.h
+C:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw/rtwtypes.h:
+C:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw/rtGetInf.h:
+C:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw/rt_nonfinite.h:

@@ -1,0 +1,10 @@
+config load "C:\Users\putth\Desktop\RMX\Lab\FRA271_Lab1_Sensors-main\Eicciw_code\RMX LAB.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\putth\STM32Cube\Repository\STM32Cube_FW_G4_V1.6.0"
+
+project generate 
+
+exit wait

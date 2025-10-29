@@ -1,0 +1,31 @@
+-IC:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code
+-IC:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Encoder_reader_simulink_ert_rtw
+-I"C:/Program Files/MATLAB/R2025a/extern/include"
+-I"C:/Program Files/MATLAB/R2025a/simulink/include"
+-I"C:/Program Files/MATLAB/R2025a/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2025a/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2025a/rtw/c/ert"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/include"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/common"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/protocol/src"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/protocol/include"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/transport/include"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/transport/src"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/platform/include"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/server/platform/default"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/ext_mode/include"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/xcp/src/target/ext_mode/src"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/coder/rtiostream/src"
+-I"C:/Program Files/MATLAB/R2025a/toolbox/target/shared/armcortexmbase/scheduler/include"
+-I"C:/Program Files/MATLAB/R2025a/rtw/c/src/ext_mode/serial"
+-IC:/ProgramData/MATLAB/SupportPackages/R2025a/toolbox/shared/supportpackages/stm32/include
+-I"C:/Program Files/MATLAB/R2025a/toolbox/target/shared/svd/common/include"
+-IC:/ProgramData/MATLAB/SupportPackages/R2025a/3P.instrset/cmsis.instrset/CMSIS/Core/Include
+-IC:/ProgramData/MATLAB/SupportPackages/R2025a/3P.instrset/cmsis_dsp.instrset/Include
+-IC:/ProgramData/MATLAB/SupportPackages/R2025a/3P.instrset/cmsis_dsp.instrset/Include/dsp
+-IC:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Drivers/STM32G4xx_HAL_Driver/Inc
+-IC:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Drivers/STM32G4xx_HAL_Driver/Inc/Legacy
+-IC:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Drivers/CMSIS/Device/ST/STM32G4xx/Include
+-IC:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Drivers/CMSIS/Include
+-IC:/Users/putth/Desktop/RMX/Lab/FRA271_Lab1_Sensors-main/Eicciw_code/Core/Inc
+-I../Core/Inc

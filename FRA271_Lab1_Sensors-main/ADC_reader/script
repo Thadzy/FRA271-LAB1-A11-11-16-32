@@ -1,0 +1,11 @@
+config load "C:\Users\putth\Downloads\FRA271_Lab1_Sensors-main\FRA271_Lab1_Sensors-main\ADC_reader\ADC_reader.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\putth\STM32Cube\Repository\STM32Cube_FW_G4_V1.6.0"
+
+config save C:\Users\putth\Downloads\FRA271_Lab1_Sensors-main\FRA271_Lab1_Sensors-main\ADC_reader\ADC_reader.ioc
+
+
+exit wait
